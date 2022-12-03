@@ -1,4 +1,4 @@
-rig = game:GetService("Players").LocalPlayer.Character.Dummy
+rig = game:GetService("Players").LocalPlayer.Character.reanim
 
 local Figure = rig.Animate.Parent
 local Torso = Figure:WaitForChild("Torso")
